@@ -1,8 +1,10 @@
 # Training hyperparameters
 BATCH_SIZE = 16
-save_model_path="./SAVED_MODELS/best_main_GAGNet.pt",
-step_show=3760
-n_epoch=50
+save_model_path = "./SAVED_MODELS/best_main_GAGNet.pt",
+step_show = 3760
+n_epoch = 50
+leanring_rate = 1
+num_wokers = 4
 
 
 # Dataset
